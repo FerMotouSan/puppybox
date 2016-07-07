@@ -160,18 +160,18 @@ a:hover{
 }
   
 .btn.btn-warning {
-    background-color: #f1c40f;
-    border-color: #f1c40f;
+    background-color: #00B2B2;
+    border-color: #00B2B2;
 }
     
 .btn.btn-warning:hover, .btn.btn-warning:focus {
-    background-color: #f4d03f;
-    border-color: #f4d03f;
+    background-color: #006868;
+    border-color: #006868;
 }
 
 .btn.btn-warning:active, .btn.btn-warning.active {
-    background-color: #cea70c;
-    border-color: #cea70c;
+    background-color: #2E8ECF;
+    border-color: #2E8ECF;
 }
 
 .btn.btn-inverse{
@@ -242,7 +242,7 @@ blockquote {
 	==============
 */
 .navbar{
-	border-bottom: 5px solid #F1C40F;
+	border-bottom: 5px solid #00B2B2;
 	margin-bottom: 0;
 	min-height: 65px;
 }
@@ -251,7 +251,7 @@ blockquote {
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none;
 	box-shadow: none;
-	background-color: #ffffff;
+	background-color: #F3EBA3;
 }
 
 .navbar-default .navbar-link:hover,
@@ -286,9 +286,9 @@ blockquote {
 	margin: -60px auto 0 -90px;
 	width: 180px;
 	height: 180px;
-	border-bottom: 5px solid #F1C40F;
+	border-bottom: 5px solid #00B2B2;
 	border-radius: 100%;
-	background: #ffffff;
+	background: #F3EBA3;
 	z-index: -2;
 }
 
@@ -356,7 +356,7 @@ blockquote {
 
 .navbar-default .navbar-nav > li > a:focus,
 .navbar-default .navbar-nav > li > a:hover {
-	color: #F1C40F;
+	color: #00B2B2;
 	text-decoration: none;
 	background-color: transparent;
 	transition: color 0.1s ease-in-out;
@@ -370,7 +370,7 @@ blockquote {
 .navbar-default .navbar-nav > .active > a:focus {
 	color: #ffffff;
 	text-decoration: none;
-	background-color: #F1C40F;
+	background-color: #00B2B2;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	border-radius: 4px;
@@ -383,7 +383,7 @@ blockquote {
 .navbar-default .navbar-nav li.dropdown.active > .dropdown-toggle,
 .navbar-default .navbar-nav li.dropdown.open.active > .dropdown-toggle {
 	color: #ffffff;
-	background-color: #F1C40F;
+	background-color: #00B2B2;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	border-radius: 4px;
@@ -821,14 +821,14 @@ blockquote {
 	text-align: center;
 	padding: 40px 0;
 	width: 100%;
-	background: #f5f5f5;
+	background: #F3EBA3;
 }
 
 #tagline h2{
 	font-weight: 600;
 	text-transform: uppercase;
 	font-size: 24px;
-	color: #444444;
+	color: #00B2B2;
 }
 
 
@@ -913,7 +913,7 @@ blockquote {
 #catalogue{
 	padding: 40px 0;
 	width: 100%;
-	background: #f5f5f5;
+	background: #00B2B2;
 	text-align: center;
 }
 
@@ -2409,10 +2409,10 @@ blockquote {
 	==================
 */
 #copyright{
-	background: #F39C12;
+	background: #00B2B2;
 	width: 100%;
 	padding: 10px 0;
 	text-align: center;
-	color: #ffffff;
+	color: #FFF;
 }
 
